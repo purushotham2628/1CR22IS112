@@ -26,4 +26,4 @@ Example:
 }
 # AFM Project
 
-![Project Screenshot](image.png)
+![Project Screenshot](./image.png)
